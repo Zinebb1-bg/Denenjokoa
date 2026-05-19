@@ -16,17 +16,17 @@
 				<tr>
 				<td>
 				<a href="https://martinagirre.github.io/MartinGemarenSekretua/">
-				<img src="argazki1.png" width="100">
+				<img src="proiektua/argazki1.png" width="100">
 				</a>
 				</td>
 				<td>
 				<a href="https://nereaaiastui-debug.github.io/Aita-laguntzen-jokua/">
-				<img src="argazki2.png" width="100">
+				<img src="proiektua/argazki2.png" width="100">
 				</a>
 				</td>
 				<td>
 				<a href="https://anderaltuna09.github.io/html_to_gibhub/">
-				<img src="argazki3.png" width="100">
+				<img src="proiektua/argazki3.png" width="100">
 				</a>
 				</td>
 				<td>
