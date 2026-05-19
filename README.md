@@ -1,4 +1,3 @@
-[denenjokoa.html](https://github.com/user-attachments/files/28010135/denenjokoa.html)
 <!DOCTYPE html>
 <!--Zineb-->
 <!--2026/04/21-->
