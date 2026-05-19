@@ -6,7 +6,6 @@
 	<head>
 		<title>Jokuak</title>
 	</head>
-
 <body  bgcolor="87220F">
 		<center>
 			<h1>Jokuen taula</h1>
